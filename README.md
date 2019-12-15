@@ -20,7 +20,7 @@ A list of covered zones is available in the [ZONES](ZONES.md) file. If you see a
 
 ## Source
 
-These maps are basically pulled from BG Wiki. The original intentions was to remove most of the details such as NM pop locations and quest/mission-specific locations to keep the map as clear as possible, but this will happen if future users feel the maps are too noisy.
+These maps are pulled from, and credit goes to, [BG Wiki](https://www.bg-wiki.com/bg/Main_Page). The original intention was to remove most of the details such as NM pop locations and quest/mission-specific locations to keep the map as clear as possible, but this will happen if future users feel the maps are too noisy. To begin with, I think these are helpful enough.
 
 ## Pre installation
 
