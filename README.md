@@ -7,7 +7,7 @@ A collection of modified DAT files for FFXI that show additional details on the 
 
 **Note: This is a work in progress. More zones will become available as time goes by.**
 
-## Exmaple
+## Example
 
 ![East Ronfaure](ROM/17/25.png)
 
