@@ -28,3 +28,10 @@ Before you install anything, make a backup of your DAT files. Do this by taking 
 ## Installation
 
 Copy all files to the FINAL FANTASY XI directory and choose to overwrite.
+
+## Legal
+* All trademarks or registered trademarks are the property of their respective owners.
+* All images of FINAL FANTASY XI content or assets are (c) 2002-2018 SQUARE ENIX CO., LTD. All Rights Reserved.
+* FINAL FANTASY, SQUARE ENIX, and the SQUARE ENIX logo are registered trademarks of Square Enix Holdings Co., Ltd. Vana’diel, Tetra Master, PLAYONLINE, the PLAYONLINE logo, Rise of the Zilart, Chains of Promathia, Treasures of Aht Urhgan, Wings of the Goddess, and Seekers of Adoulin are registered trademarks of Square Enix Co., Ltd.
+* FINAL FANTASY is a registered trademark of Square Enix Holdings Co., Ltd.
+* FINAL FANTASY XI © 2002 - 2020 SQUARE ENIX CO., LTD. All Rights Reserved.
