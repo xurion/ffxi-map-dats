@@ -27,11 +27,12 @@ These maps are pulled from, and credit goes to, [BG Wiki](https://www.bg-wiki.co
 Before you install anything, make a backup of your DAT files. Do this by taking a copy of the following directories:
 
 * ...\FINAL FANTASY XI\ROM\17
-* More will follow as more maps are created
+
+**Note: More will follow as more maps are covered**
 
 ## Installation
 
-Copy all files to the FINAL FANTASY XI directory and choose to overwrite.
+Copy all files to the FINAL FANTASY XI directory and choose to overwrite/replace.
 
 ## Legal
 * All trademarks or registered trademarks are the property of their respective owners.
