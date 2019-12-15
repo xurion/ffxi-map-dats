@@ -14,6 +14,10 @@ A collection of modified DAT files for FFXI that show additional details on the 
 
 ![East Ronfaure](ROM/17/25.png)
 
+## The List
+
+A list of covered zones is available in the [ZONES](ZONES.md) file. If you see a map that is not covered yet, I can prioritise it if you [raise an issue](https://github.com/xurion/ffxi-map-dats/issues) 😄
+
 ## Source
 
 These maps are basically pulled from BG Wiki. The original intentions was to remove most of the details such as NM pop locations and quest/mission-specific locations to keep the map as clear as possible, but this will happen if future users feel the maps are too noisy.
