@@ -20,18 +20,19 @@ A list of covered zones is available in the [ZONES](ZONES.md) file. If you see a
 
 ## Source
 
-These maps are basically pulled from BG Wiki. The original intentions was to remove most of the details such as NM pop locations and quest/mission-specific locations to keep the map as clear as possible, but this will happen if future users feel the maps are too noisy.
+These maps are pulled from, and credit goes to, [BG Wiki](https://www.bg-wiki.com/bg/Main_Page). The original intention was to remove most of the details such as NM pop locations and quest/mission-specific locations to keep the map as clear as possible, but this will happen if future users feel the maps are too noisy. To begin with, I think these are helpful enough.
 
 ## Pre installation
 
 Before you install anything, make a backup of your DAT files. Do this by taking a copy of the following directories:
 
 * ...\FINAL FANTASY XI\ROM\17
-* More will follow as more maps are created
+
+**Note: More will follow as more maps are covered**
 
 ## Installation
 
-Copy all files to the FINAL FANTASY XI directory and choose to overwrite.
+Copy all files to the FINAL FANTASY XI directory and choose to overwrite/replace.
 
 ## Legal
 * All trademarks or registered trademarks are the property of their respective owners.
