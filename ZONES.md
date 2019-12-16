@@ -535,21 +535,21 @@ If you see a map that is not covered yet, I can prioritise it if you [raise an i
 | Western Adoulin              | ROM/292/108.DAT | ![No](assets/red-cross-32x32.png)   |
 | Eastern Adoulin              | ROM/292/109.DAT | ![No](assets/red-cross-32x32.png)   |
 | Rala Waterways               | ROM/292/110.DAT | ![No](assets/red-cross-32x32.png)   |
-| Rala Waterways (U)           | ROM/292/111.DAT | ![No])](assets/red-cross-32x32.png) |
-| Rala Waterways (U)           | ROM/292/112.DAT | ![No])](assets/red-cross-32x32.png) |
-| Rala Waterways (U)           | ROM/292/113.DAT | ![No])](assets/red-cross-32x32.png) |
-| Rala Waterways (U)           | ROM/292/114.DAT | ![No])](assets/red-cross-32x32.png) |
-| Rala Waterways (U)           | ROM/292/115.DAT | ![No])](assets/red-cross-32x32.png) |
-| Rala Waterways (U)           | ROM/292/116.DAT | ![No])](assets/red-cross-32x32.png) |
-| Rala Waterways (U)           | ROM/292/117.DAT | ![No])](assets/red-cross-32x32.png) |
-| Rala Waterways (U)           | ROM/292/118.DAT | ![No])](assets/red-cross-32x32.png) |
-| Rala Waterways (U)           | ROM/292/119.DAT | ![No])](assets/red-cross-32x32.png) |
-| Rala Waterways (U)           | ROM/292/120.DAT | ![No])](assets/red-cross-32x32.png) |
-| Rala Waterways (U)           | ROM/292/121.DAT | ![No])](assets/red-cross-32x32.png) |
-| Rala Waterways (U)           | ROM/292/122.DAT | ![No])](assets/red-cross-32x32.png) |
-| Rala Waterways (U)           | ROM/292/123.DAT | ![No])](assets/red-cross-32x32.png) |
-| Rala Waterways (U)           | ROM/292/124.DAT | ![No])](assets/red-cross-32x32.png) |
-| Rala Waterways (U)           | ROM/292/125.DAT | ![No])](assets/red-cross-32x32.png) |
+| Rala Waterways (U)           | ROM/292/111.DAT | ![No](assets/red-cross-32x32.png)   |
+| Rala Waterways (U)           | ROM/292/112.DAT | ![No](assets/red-cross-32x32.png)   |
+| Rala Waterways (U)           | ROM/292/113.DAT | ![No](assets/red-cross-32x32.png)   |
+| Rala Waterways (U)           | ROM/292/114.DAT | ![No](assets/red-cross-32x32.png)   |
+| Rala Waterways (U)           | ROM/292/115.DAT | ![No](assets/red-cross-32x32.png)   |
+| Rala Waterways (U)           | ROM/292/116.DAT | ![No](assets/red-cross-32x32.png)   |
+| Rala Waterways (U)           | ROM/292/117.DAT | ![No](assets/red-cross-32x32.png)   |
+| Rala Waterways (U)           | ROM/292/118.DAT | ![No](assets/red-cross-32x32.png)   |
+| Rala Waterways (U)           | ROM/292/119.DAT | ![No](assets/red-cross-32x32.png)   |
+| Rala Waterways (U)           | ROM/292/120.DAT | ![No](assets/red-cross-32x32.png)   |
+| Rala Waterways (U)           | ROM/292/121.DAT | ![No](assets/red-cross-32x32.png)   |
+| Rala Waterways (U)           | ROM/292/122.DAT | ![No](assets/red-cross-32x32.png)   |
+| Rala Waterways (U)           | ROM/292/123.DAT | ![No](assets/red-cross-32x32.png)   |
+| Rala Waterways (U)           | ROM/292/124.DAT | ![No](assets/red-cross-32x32.png)   |
+| Rala Waterways (U)           | ROM/292/125.DAT | ![No](assets/red-cross-32x32.png)   |
 | Yahse Hunting Grounds        | ROM/292/126.DAT | ![No](assets/red-cross-32x32.png)   |
 | Ceizak Battlegrounds         | ROM/292/127.DAT | ![No](assets/red-cross-32x32.png)   |
 
