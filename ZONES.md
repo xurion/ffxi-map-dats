@@ -24,13 +24,12 @@ If you see a map that is not covered yet, I can prioritise it if you [raise an i
 | Tahrongi Canyon              | ROM/17/41.DAT   | ![Yes](assets/green-tick-32x32.png) |
 | Buburimu Peninsula           | ROM/17/42.DAT   | ![Yes](assets/green-tick-32x32.png) |
 | Meriphataud Mountains        | ROM/17/43.DAT   | ![Yes](assets/green-tick-32x32.png) |
-| Sauromugue Champaign         | ROM/17/44.DAT   | ![No](assets/red-cross-32x32.png)   |
+| Sauromugue Champaign         | ROM/17/44.DAT   | ![Yes](assets/green-tick-32x32.png) |
 | Qufim Island                 | ROM/17/47.DAT   | ![Yes](assets/green-tick-32x32.png) |
-| Behemoth's Dominion          | ROM/17/48.DAT   | ![No](assets/red-cross-32x32.png)   |
-| Ghelsba Outpost              | ROM/17/51.DAT   | ![No](assets/red-cross-32x32.png)   |
-| Ghelsba Outpost              | ROM/17/52.DAT   | ![No](assets/red-cross-32x32.png)   |
-| Fort Ghelsba                 | ROM/17/53.DAT   | ![No](assets/red-cross-32x32.png)   |
-| Yughott Grotto               | ROM/17/54.DAT   | ![No](assets/red-cross-32x32.png)   |
+| Behemoth's Dominion          | ROM/17/48.DAT   | ![Yes](assets/green-tick-32x32.png) |
+| Ghelsba Outpost 1            | ROM/17/51.DAT   | ![Yes](assets/green-tick-32x32.png) |
+| Ghelsba Outpost 2            | ROM/17/52.DAT   | No enhanced map                     |
+| Fort Ghelsba                 | ROM/17/53.DAT   | ![Yes](assets/green-tick-32x32.png) |
 | Palborough Mines             | ROM/17/55.DAT   | ![No](assets/red-cross-32x32.png)   |
 | Palborough Mines             | ROM/17/56.DAT   | ![No](assets/red-cross-32x32.png)   |
 | Palborough Mines             | ROM/17/57.DAT   | ![No](assets/red-cross-32x32.png)   |
