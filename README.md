@@ -12,7 +12,7 @@ A collection of modified DAT files for FFXI that show additional details on the 
 
 ## Example
 
-![East Ronfaure](ROM/17/25.png)
+![East Ronfaure](psd/ROM/17/25.png)
 
 ## The List
 
