@@ -32,8 +32,8 @@ If you see a map that is not covered yet, I can prioritise it if you [raise an i
 | Palborough Mines 1           | ROM/17/55.DAT   | ![Yes](assets/green-tick-32x32.png) | v0.0.1  |
 | Palborough Mines 2           | ROM/17/56.DAT   | ![Yes](assets/green-tick-32x32.png) | v0.0.1  |
 | Palborough Mines 3           | ROM/17/57.DAT   | ![Yes](assets/green-tick-32x32.png) | v0.0.1  |
-| Giddeus                      | ROM/17/59.DAT   | ![No](assets/red-cross-32x32.png)   |         |
-| Giddeus                      | ROM/17/60.DAT   | ![No](assets/red-cross-32x32.png)   |         |
+| Giddeus 1                    | ROM/17/59.DAT   | ![Yes](assets/green-tick-32x32.png) |         |
+| Giddeus 2                    | ROM/17/60.DAT   | ![Yes](assets/green-tick-32x32.png) |         |
 | Beadeaux                     | ROM/17/62.DAT   | ![No](assets/red-cross-32x32.png)   |         |
 | Beadeaux                     | ROM/17/63.DAT   | ![No](assets/red-cross-32x32.png)   |         |
 | Qulun Dome                   | ROM/17/65.DAT   | ![No](assets/red-cross-32x32.png)   |         |
