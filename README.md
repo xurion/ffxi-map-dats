@@ -34,6 +34,16 @@ Before you install anything, make a backup of your DAT files. Do this by taking 
 
 Copy all files to the FINAL FANTASY XI directory and choose to overwrite/replace.
 
+## Creating a ROM archive
+
+In order to product a roms.zip archive of all roms, you can do a git archive:
+
+```
+git archive -o roms.zip HEAD
+```
+
+The roms.zip file is ignored by the .gitignore file. The .gitattributes file controls which files are ignored from the archive.
+
 ## Legal
 * All trademarks or registered trademarks are the property of their respective owners.
 * All images of FINAL FANTASY XI content or assets are (c) 2002-2018 SQUARE ENIX CO., LTD. All Rights Reserved.
