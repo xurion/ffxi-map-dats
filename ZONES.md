@@ -39,11 +39,11 @@ If you see a map that is not covered yet, I can prioritise it if you [raise an i
 | Qulun Dome                   | ROM/17/65.DAT   | ![Yes](assets/green-tick-32x32.png) |         |
 | Davoi                        | ROM/17/66.DAT   | ![Yes](assets/green-tick-32x32.png) |         |
 | Monastic Cavern              | ROM/17/67.DAT   | ![Yes](assets/green-tick-32x32.png) |         |
-| Castle Oztroja               | ROM/17/68.DAT   | ![No](assets/red-cross-32x32.png)   |         |
-| Castle Oztroja               | ROM/17/69.DAT   | ![No](assets/red-cross-32x32.png)   |         |
-| Castle Oztroja               | ROM/17/70.DAT   | ![No](assets/red-cross-32x32.png)   |         |
-| Castle Oztroja               | ROM/17/71.DAT   | ![No](assets/red-cross-32x32.png)   |         |
-| Altar Room                   | ROM/17/72.DAT   | ![No](assets/red-cross-32x32.png)   |         |
+| Castle Oztroja 1             | ROM/17/68.DAT   | ![Yes](assets/green-tick-32x32.png) |         |
+| Castle Oztroja 2             | ROM/17/69.DAT   | ![Yes](assets/green-tick-32x32.png) |         |
+| Castle Oztroja 3             | ROM/17/70.DAT   | ![Yes](assets/green-tick-32x32.png) |         |
+| Castle Oztroja 4             | ROM/17/71.DAT   | ![Yes](assets/green-tick-32x32.png) |         |
+| Altar Room                   | ROM/17/72.DAT   | ![Yes](assets/green-tick-32x32.png) |         |
 | Delkfutt's Tower             | ROM/17/84.DAT   | ![No](assets/red-cross-32x32.png)   |         |
 | Delkfutt's Tower             | ROM/17/85.DAT   | ![No](assets/red-cross-32x32.png)   |         |
 | Delkfutt's Tower             | ROM/17/86.DAT   | ![No](assets/red-cross-32x32.png)   |         |
