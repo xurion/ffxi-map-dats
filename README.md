@@ -8,6 +8,8 @@ A collection of modified DAT files for FFXI that show additional details on the 
 * NM spawn locations
 * Quest locations
 
+Head over to [releases](https://github.com/xurion/ffxi-map-dats/releases) for the latest bundle, or pick and choose the dats from the roms directory!
+
 **Note: This is a work in progress. More zones will become available as time goes by.**
 
 ## Example
