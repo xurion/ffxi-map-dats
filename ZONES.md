@@ -34,11 +34,11 @@ If you see a map that is not covered yet, I can prioritise it if you [raise an i
 | Palborough Mines 3           | ROM/17/57.DAT   | ![Yes](assets/green-tick-32x32.png) | v0.0.1  |
 | Giddeus 1                    | ROM/17/59.DAT   | ![Yes](assets/green-tick-32x32.png) |         |
 | Giddeus 2                    | ROM/17/60.DAT   | ![Yes](assets/green-tick-32x32.png) |         |
-| Beadeaux                     | ROM/17/62.DAT   | ![No](assets/red-cross-32x32.png)   |         |
-| Beadeaux                     | ROM/17/63.DAT   | ![No](assets/red-cross-32x32.png)   |         |
-| Qulun Dome                   | ROM/17/65.DAT   | ![No](assets/red-cross-32x32.png)   |         |
-| Davoi                        | ROM/17/66.DAT   | ![No](assets/red-cross-32x32.png)   |         |
-| Monastic Cavern              | ROM/17/67.DAT   | ![No](assets/red-cross-32x32.png)   |         |
+| Beadeaux 1                   | ROM/17/62.DAT   | ![Yes](assets/green-tick-32x32.png) |         |
+| Beadeaux 2                   | ROM/17/63.DAT   | ![Yes](assets/green-tick-32x32.png) |         |
+| Qulun Dome                   | ROM/17/65.DAT   | ![Yes](assets/green-tick-32x32.png) |         |
+| Davoi                        | ROM/17/66.DAT   | ![Yes](assets/green-tick-32x32.png) |         |
+| Monastic Cavern              | ROM/17/67.DAT   | ![Yes](assets/green-tick-32x32.png) |         |
 | Castle Oztroja               | ROM/17/68.DAT   | ![No](assets/red-cross-32x32.png)   |         |
 | Castle Oztroja               | ROM/17/69.DAT   | ![No](assets/red-cross-32x32.png)   |         |
 | Castle Oztroja               | ROM/17/70.DAT   | ![No](assets/red-cross-32x32.png)   |         |
