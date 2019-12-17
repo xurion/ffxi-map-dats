@@ -28,11 +28,11 @@ Before you install anything, make a backup of your DAT files. Do this by taking 
 
 * ...\FINAL FANTASY XI\ROM\17
 
-**Note: More will follow as more maps are covered**
+**Note: More will follow as more maps are covered.**
 
 ## Installation
 
-Copy all files to the FINAL FANTASY XI directory and choose to overwrite/replace.
+Copy all directories in the `roms` directory to the FINAL FANTASY XI installation directory and choose to overwrite/replace.
 
 ## Legal
 * All trademarks or registered trademarks are the property of their respective owners.
