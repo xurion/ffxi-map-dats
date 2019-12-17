@@ -36,7 +36,7 @@ Copy all directories in the `roms` directory to the FINAL FANTASY XI installatio
 
 ## Creating a ROM archive
 
-In order to product a roms.zip archive of all roms, you can do a git archive:
+In order to produce a roms.zip archive of all roms, you can do a git archive:
 
 ```
 git archive -o roms.zip HEAD
