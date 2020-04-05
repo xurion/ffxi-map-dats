@@ -1,4 +1,4 @@
-# FFXI Map DATS
+# FFXI Map DATs
 
 A collection of modified DAT files for FFXI that show additional details on the in-game maps, including:
 
@@ -10,7 +10,7 @@ A collection of modified DAT files for FFXI that show additional details on the 
 
 Head over to [releases](https://github.com/xurion/ffxi-map-dats/releases) for the latest bundle, or pick and choose the dats from the roms directory!
 
-**Note: This is a work in progress. More zones will become available as time goes by.**
+**Note: This is a work in progress. More zones will become available in time.**
 
 ## Example
 
